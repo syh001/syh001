@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
 
-<h3 align="left">About me:</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syh001&label=Profile%20views&color=0e75b6&style=flat" alt="syh001" /> </p>
+
+<h3 align="left">About me:</h3>
 
 - 🔭 graduated from: **Northeastern University(CN)**
 
