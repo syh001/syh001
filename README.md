@@ -1,23 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-- 📫 How to reach me: miasyh_1997@163.com
 
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syh001&label=Profile%20views&color=0e75b6&style=flat" alt="syh001" /> </p>
 
-- 🔭 graduated from **Northeastern University(CN)**
+- 🔭 graduated from: **Northeastern University(CN)**
 
-- 🌱 currently learning **deep learning/data science**
+- 🌱 currently learning: **deep learning/data science**
 
-- 📫 How to reach me **miasyh_1997@163.com**
+- 📫 How to reach me: **miasyh_1997@163.com**
 
-- ⚡ Fun fact **MBTidraw**
+- ⚡ Fun fact: **MBTidraw**
   
 <p align="left">
 </p>
