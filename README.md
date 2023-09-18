@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 graduated from: **Northeastern University(CN)**
+- 🔭 working in: **the galaxy company**
 
 - 🌱 currently learning: **deep learning/data science**
 
